@@ -19,7 +19,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=usamah1&theme=onedark&no-frame=false&no-bg=false&margin-w=5)
 
 ## 🌐 social
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/usamahzaheer) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/usamahz5) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=usamah1&icon=8&color=1)](https://visitcount.itsvg.in)
