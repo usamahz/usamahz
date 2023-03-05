@@ -5,7 +5,7 @@
 - 🌱 &nbsp;I’m currently learning __Rust__ and __Flutter__.
 - 💬 &nbsp;Ask me anything about software, robotics, artificial intelligence and sciences.
 - 📫 &nbsp;Reach me at [@usamah.me](https://usamah.me)
-- 👨‍💻 &nbsp;Read more about my projects at [@medium](https://www.medium.com/usamah1)
+- 👨‍💻 &nbsp;Read more about my projects at [@medium](https://www.medium.com/@usamah1)
 - ⚡ &nbsp;_Fun fact_ - I know __5__ ___spoken___ languages.
 
 ## 💻 stack
