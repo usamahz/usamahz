@@ -1,6 +1,6 @@
 ## Howdy! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2.5%"></a>
 
-I'm Usamah, a software enthusiast deeply intrigued by robotics, artificial intelligence, and the wonders of science. Currently, I'm immersed in the world of **Python**, **C**, and **C++**, crafting innovative projects that blend creativity with technology.
+I'm Usamah, a software engineer deeply intrigued by robotics, artificial intelligence, and the wonders of science. Currently, I'm immersed in the world of **Python**, **C**, and **C++**, crafting innovative projects that blend creativity with technology.
 
 🌱 My ongoing journey includes learning Rust and Flutter, where I'm exploring new avenues for software development and interactive UI experiences.
 
