@@ -35,7 +35,6 @@ I'm Usamah, a software engineer deeply intrigued by robotics, artificial intelli
 ## 🌐 social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/usamahzaheer) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/usamahz5) 
 
----
 [![](https://visitcount.itsvg.in/api?id=usamah1&icon=8&color=1)](https://visitcount.itsvg.in)
 
  <!--[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/usamah) -->
