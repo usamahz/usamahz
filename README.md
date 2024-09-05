@@ -33,7 +33,7 @@ I'm Usamah, a software engineer deeply intrigued by robotics, artificial intelli
 ![](https://github-profile-trophy.vercel.app/?username=usamahz&theme=onedark&no-frame=false&no-bg=false&margin-w=1)
 -->
 ## 🌐 social
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/usamahzaheer) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/u5amah) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/usamahzaheer) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/usamahzx) 
 
 [![](https://visitcount.itsvg.in/api?id=usamah1&icon=8&color=1)](https://visitcount.itsvg.in)
 
