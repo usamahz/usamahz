@@ -14,9 +14,9 @@ MS Artificial Intelligence @ **UT Austin**.
 
 Previously,
 
-@ Dyson — robotics, VLMs, embedded ML.  
+@ **Dyson** — robotics, VLMs, embedded ML.  
 
-@ Space Park — AI4EO by ESA
+@ **Space Park** — AI4EO by ESA
 
 
 Open to collaborations, conversations, and moonshots.
