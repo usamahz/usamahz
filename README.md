@@ -24,4 +24,4 @@ Previously,
 
 Open to collaborations, conversations, and moonshots.
 
-> Usamah (أسامة) — Lion
+> Usamah (أسامة) — Lion 🦁
