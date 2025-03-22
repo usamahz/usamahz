@@ -1,6 +1,6 @@
 ![The Art of Living](https://github.com/user-attachments/assets/b429b83f-680b-4ef4-a875-94f966a7c882)
 
-#### ML systems. Infrastructure. Software.
+## ML systems. Infrastructure. Software.
 
 Machine Learning Engineer @ **Arm** — Accelerating ML workloads at scale.  
 
