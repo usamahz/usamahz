@@ -1,4 +1,4 @@
-### ML systems. Infrastructure. Software.  
+#### ML systems. Infrastructure. Software.
 
 Machine Learning Engineer @ **Arm** — Accelerating ML workloads at scale.  
 
@@ -15,6 +15,3 @@ Previously @ Dyson — robotics, VLMs, embedded ML.
 Open to collaborations, conversations, and moonshots.
 
 > I love deep neural nets.
-
-🔗 [linkedin.com/in/usamahzaheer](https://linkedin.com/in/usamahzaheer)  
-💡 [github.com/usamahz](https://github.com/usamahz)
