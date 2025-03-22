@@ -10,7 +10,12 @@ MSc Artificial Intelligence @ **UT Austin**.
 - ⚡ Generative AI, multimodal systems, neuro-symbolic learning
 - 🔧 Turning research into scalable, production-grade tools
 
-Previously @ Dyson — robotics, VLMs, embedded ML.  
+Previously,
+
+@ Dyson — robotics, VLMs, embedded ML.  
+
+@ Space Park — AI4EO by ESA
+
 
 Open to collaborations, conversations, and moonshots.
 
