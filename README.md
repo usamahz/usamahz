@@ -1,6 +1,4 @@
-# Usamah Zaheer
-
-### AI systems. Infrastructure. Software.  
+### ML systems. Infrastructure. Software.  
 
 Machine Learning Engineer @ **Arm** — Accelerating ML workloads at scale.  
 
