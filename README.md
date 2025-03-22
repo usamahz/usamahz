@@ -2,7 +2,7 @@
 
 Machine Learning Engineer @ **Arm** — Accelerating ML workloads at scale.  
 
-MSc Artificial Intelligence @ **UT Austin**.
+MS Artificial Intelligence @ **UT Austin**.
 
 ---
 
