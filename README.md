@@ -2,9 +2,12 @@
 
 ## ML systems. Infrastructure. Software.
 
+> I love deep neural nets 🧠
+
 Machine Learning Engineer @ **Arm** — Accelerating ML workloads at scale.  
 
 MS Artificial Intelligence @ **UT Austin**.
+
 
 ---
 
@@ -21,4 +24,4 @@ Previously,
 
 Open to collaborations, conversations, and moonshots.
 
-> I love deep neural nets.
+> Usamah (أسامة) — Lion
