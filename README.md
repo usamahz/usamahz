@@ -23,5 +23,3 @@ Previously,
 
 
 Open to collaborations, conversations, and moonshots.
-
-> Usamah — Lion
