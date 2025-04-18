@@ -1,4 +1,4 @@
-![The Art of Living](https://github.com/user-attachments/assets/b429b83f-680b-4ef4-a875-94f966a7c882)
+[![The Art of Living](https://github.com/user-attachments/assets/b429b83f-680b-4ef4-a875-94f966a7c882)]:
 
 ## Machine Learning. Infrastructure. Software.
 
