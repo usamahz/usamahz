@@ -8,7 +8,7 @@ MS Artificial Intelligence @ **UT Austin**.
 
 ---
 
-- 🧠 ML infra, compilers, optimization, edge compute
+- 🧠 ML infra, compilers, optimisation, edge compute
 - ⚡ Generative AI, multimodal systems, neuro-symbolic learning
 - 🔧 Turning research into scalable, production-grade tools
 
