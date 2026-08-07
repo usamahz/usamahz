@@ -66,4 +66,3 @@ Portfolio and full background at [usamahzaheer.com](https://usamahzaheer.com).
 ### 📫 Connect
 
 [LinkedIn](https://linkedin.com/in/usamahzaheer) · usamahzaheer2@gmail.com · Cambridge, UK
-[LinkedIn](https://linkedin.com/in/usamahzaheer) · usamahzaheer2@gmail.com · Cambridge, UK
